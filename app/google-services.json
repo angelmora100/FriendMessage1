@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "310895094021",
+    "firebase_url": "https://friendmessage-15627.firebaseio.com",
+    "project_id": "friendmessage-15627",
+    "storage_bucket": "friendmessage-15627.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310895094021:android:360429127462fe4f",
+        "android_client_info": {
+          "package_name": "com.example.friendmessage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310895094021-6uod9eab1ft1qji0a2m2ea3cmhgt3j8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVMyaEjtO6s5LNJNCFbijK-NkzXQxXCjw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
